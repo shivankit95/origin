@@ -36,3 +36,48 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.ui 2 2 2021-11-15 20:17:23.527
 !MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:26:52.541
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:26:52.541
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@54231c36[org.springframework.tooling.boot.ls:1.28.0.202109130547(id=786)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:26:52.590
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:26:53.035
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.187
+!MESSAGE Boot LS startup time from start to initialized: 13591ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.582
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TLZOboHaisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.600
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.605
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.607
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.608
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.608
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TLZOboHa => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.616
+!MESSAGE classpath=67 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.618
+!MESSAGE buffering callback sts4.classpath.TLZOboHa 18-JRTP-practise false 67
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:06.619
+!MESSAGE executing callback sts4.classpath.TLZOboHa 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-11-15 20:27:07.338
+!MESSAGE executing callback sts4.classpath.TLZOboHa SUCCESS [done]
